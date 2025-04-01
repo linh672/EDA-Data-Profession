@@ -218,6 +218,7 @@ This suggests that multiple skills are often required together. For example, SQL
 ✅ **SQL and Python are the most in-demand skills across data roles.**  
 ✅ **Excel and Tableau, while useful, offer lower salaries compared to coding and cloud skills.**  
 
+
 # Conclusion
 - **General Data Profession:** Focuses on **SQL, Python, and BI tools (Tableau, Excel)** for **data analysis, reporting, and cloud-based processing (AWS, Azure)**. Strong emphasis on structured data and business insights rather than AI or deep learning.  
 - **Machine Learning Engineer:** Prioritizes **Python, TensorFlow, PyTorch, and cloud computing (AWS, GCP)** for **AI model development and deployment**. Less reliance on SQL and BI tools, with a greater need for **big data processing and scalable ML systems**.
