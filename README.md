@@ -50,10 +50,10 @@ Despite Java's widespread use in software development, its lower percentage sugg
 5. **The Total Percentage Exceeds 100% (251%)**
 This suggests that multiple skills are often required together. For example, SQL and Python are frequently used together in data roles.
 
-![alt text](assets\1_data_profession_bar_chart.png)
+![alt text](assets/1_data_profession_bar_chart.png)
 
 ### Compare that trends with Machine Learning Engineer in U.S.:
-![alt text](assets\1_machine_learning_engineer_bar_chart.png)
+![alt text](assets/1_machine_learning_engineer_bar_chart.png)
 
 
 ### **Key Insights:**
@@ -106,7 +106,7 @@ This suggests that multiple skills are often required together. For example, SQL
 
 ### 2. Top Median Salary For Data Professions (And Number Of Required Skills Per Job)
 ### **Insights from the Data on Salaries & Skills per Job**  
-![alt text](assets\2_salary_vs_skills.png)
+![alt text](assets/2_salary_vs_skills.png)
 1. **Senior Data Scientists Earn the Most**  
    - With a **median salary of $155,000**, Senior Data Scientists are the highest earners in this dataset.
    - They require an **average of 5.3 skills per job**, which is moderate compared to other roles.
@@ -191,7 +191,7 @@ This suggests that multiple skills are often required together. For example, SQL
 ✅ **Machine Learning is the most lucrative in the US, with a 48% salary difference.**  
 
 ### 4. Pay of Top 10 In-Demanded Skills
-![alt text](assets\4.salary_top_skills.png)
+![alt text](assets/4.salary_top_skills.png)
 ### **Insights from Skills & Salaries Data**  
 
 1. **Highest Paying Skills**  
